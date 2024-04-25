@@ -1,6 +1,7 @@
 # Improving and applying SOLID-Principles to the following code:
 Improved UML Class Diagram
-SOLID Principles UML.pdf](https://github.com/leobenTaningco/SOLID-Principles/files/15111629/Lab.Assignment.6.SOLID.Principles.UML.pdf)
+
+[SOLID Principles UML.pdf](https://github.com/leobenTaningco/SOLID-Principles/files/15111629/Lab.Assignment.6.SOLID.Principles.UML.pdf)
 
 public interface Order {
 
